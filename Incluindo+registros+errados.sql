@@ -1,0 +1,5 @@
+
+INSERT INTO [TABELA DE PRODUTOS]
+([CODIGO DO PRODUTO], [NOME DO PRODUTO], [EMBALAGEM], [TAMANHO], [SABOR], [PREÇO DE LISTA])
+VALUES
+('1002334', 'Linha Citros - 1 Litro - Lima/Limão', 'PET', '1 Litro','Lima/Limão', 7.00)
